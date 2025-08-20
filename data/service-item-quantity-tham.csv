@@ -1,0 +1,101 @@
+row_id,service_item,quantity,used_fallback
+0,Air con Issue,1,False
+1,Air con Issue,1,False
+2,Air con Issue,1,False
+3,Call Redirect,1,False
+4,Balcony Door,1,False
+5,Loofah,1,False
+6,Need Assistance,1,False
+7,Need Assistance,1,False
+8,Air con Issue,1,False
+9,Air con Issue,1,False
+10,Change Blanket,1,False
+11,Change Blanket,1,False
+12,More Body lotion,1,False
+13,Need Assistance,1,False
+14,Clear rubbish,1,False
+15,Minibar content removal,1,False
+16,Air con Issue,1,False
+17,Air con Issue,1,False
+18,Need Assistance,1,False
+19,Cannot connect to hotel wifi,1,False
+20,Air con Issue,1,False
+21,Call Redirect,1,False
+22,Blanket,1,False
+23,Coffee Mugs,2,False
+24,Towels refresh,1,False
+25,Combine the beds,1,False
+26,Air con Issue,1,False
+27,Sanitary pads,1,False
+28,Birthday Amenity,1,False
+29,Shampoo,1,False
+30,Extra hangers,1,False
+31,HDMI Assistance,1,False
+32,Need Assistance,1,False
+33,Make up room,1,False
+34,Humidifier,1,False
+35,Call Redirect,1,False
+36,Air con Issue,1,False
+37,Iron,1,False
+38,Dress pressed,1,False
+39,Combine the beds,1,False
+40,Pick up laundry,1,False
+41,Need Assistance,1,False
+42,Cleaning of Bathroom / Bathroom Issue,1,False
+43,Dehumidifier,1,False
+44,Weighting scale,1,False
+45,Need Assistance,1,False
+46,Loan a Phone charger,1,False
+47,Shopping bag,1,False
+48,Request for power adapter,1,False
+49,Loan Umbrella,1,False
+50,Need Assistance,1,False
+51,Need Assistance,1,False
+52,Call Redirect,1,False
+53,Bathroom Ceiling Light Flickering,1,False
+54,Need Assistance,1,False
+55,Cleaning of Bathroom / Bathroom Issue,1,False
+56,Can''t close the minibar door,1,True
+57,Air con Issue,1,False
+58,Handheld Shower Head Holder Loose,1,False
+59,Creamer sachets,1,False
+60,Cleaning of Bathroom / Bathroom Issue,1,False
+61,Loan a Phone charger,1,False
+62,Extra Pillow - Firm,1,False
+63,Extra Pillow - Firm,1,False
+64,Air con Issue,1,False
+65,Request for power adapter,1,False
+66,Air con Issue,1,False
+67,Entrance Wall Socket,1,False
+68,Need Assistance,1,False
+69,Call Redirect,1,False
+70,Air con Issue,1,False
+71,Air con Issue,1,False
+72,Make up room,1,False
+73,Sewing kit,1,False
+74,Shampoo,1,False
+75,Shaving kit,1,False
+76,Handheld Shower Head Holder Loose,1,False
+77,Handheld Shower Head Holder Loose,1,False
+78,Wash Basin Leaking,1,False
+79,Combine the beds,1,False
+80,Bath soap,1,False
+81,Stationery,1,False
+82,Need Assistance,1,False
+83,Straws,1,False
+84,Air con Issue,1,False
+85,Tea bags,1,False
+86,Tissue paper,1,False
+87,Cleaning of Bathroom / Bathroom Issue,1,False
+88,Cleaning of Bathroom / Bathroom Issue,1,False
+89,Call Redirect,1,False
+90,Bath Towel,1,False
+91,Cleaning of Bathroom / Bathroom Issue,1,False
+92,Call Redirect,1,False
+93,TV No Power Supply ,1,False
+94,Air con Issue,1,False
+95,Need Assistance,1,False
+96,Vanity kit,1,False
+97,"1st WUC - MANUAL CALL Up to 3 Times. No Answer, Alert DM!",5,False
+98,Cannot connect to hotel wifi,1,False
+99,Extra Glasses,1,False
